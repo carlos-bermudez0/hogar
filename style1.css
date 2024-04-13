@@ -1,0 +1,18 @@
+body{
+    color: white;
+    min-height: 100vh;
+    background: url(./images/fon.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+@font-face{
+    font-family: "Roboto Condensed", sans-serif;
+    src: url(static/RobotoCondensed-BlackItalic.ttf);
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  body{
+    font-family: "Roboto Condensed", sans-serif;
+    src: url(static/RobotoCondensed-BlackItalic.ttf);
+    font-weight: bold;
+  }

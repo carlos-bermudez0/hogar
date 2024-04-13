@@ -1,0 +1,22 @@
+body{
+  font-family:'Times New Roman', Times, serif;
+  min-height: 100vh;
+  background: url(images/n.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.guapo{
+background: #4CCD99;
+}
+.header{
+ background: #4CCD99;
+}
+.pulsar{
+  background: white;
+  color: black;
+  padding: 50px;
+  width: 25%;
+  margin: 10px;
+}
+.columna{
+  display: flex;
+}
